@@ -1,0 +1,21 @@
+Kolom,Nilai
+aeroway,helipad
+amenity,"place_of_worship, hospital, clinic, parking, marketplace, cafe, grave_yard, school, bank, food_court, car_rental, police, monastery, fast_food, pharmacy, kindergarten, college, public_building, post_office, library, university, restaurant, fuel, fountain, motorcycle_parking, bicycle_parking, community_centre, parking_space, townhall, research_institute, shelter, prison, toilets, bus_station"
+admin_level,"7.0, 5.0"
+barrier,wall
+boundary,administrative
+building,"yes, residential, garage, house, industrial, school, mosque, construction, roof, warehouse, office, ind, service, farm, retail, clinic, hospital, public, commercial, shed, supermarket, governor_office, hotel, terrace, Kantor_Dinas, Ruang_Pertemuan, Rumah_Adat, kindergarten, church, marketplace, college, restaurant, auditorium, university, dormitory, Taman_Faperta_Untan, barn, civic"
+craft,electronics_repair
+geological,Semua NaN
+historic,"building, tomb, monument"
+land_area,Semua NaN
+landuse,"cemetery, farmland, grass, residential, industrial, harbour, forest, recreation_ground, farmyard, retail, brownfield, orchard, military, meadow, reservoir, commercial, construction, plant_nursery, religious"
+leisure,"pitch, park, golf_course, resort, garden, swimming_pool, track, stadium, sports_centre, fishing, fitness_centre"
+man_made,"storage_tank, pier, tower, works"
+military,Semua NaN
+natural,"water, wood, scrub, heath, grassland, spring"
+office,"government, yes, lawyer, association"
+place,"village, town, islet"
+shop,"kiosk, yes, mall, supermarket, computer, convenience, motorcycle_repair, shopping_centre, bakery, hairdresser, fishing, greengrocer, stationery, laundry, tailor, perfumery, electronics, clothes, mobile_phone, books, car, hardware, wholesale, general"
+sport,"tennis, soccer, basketball, athletics, volleyball, multi, running, swimming, badminton, cycling, soccer;basketball"
+tourism,"hotel, hostel, museum, gallery"
